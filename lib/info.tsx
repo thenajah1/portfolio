@@ -1,18 +1,18 @@
-import me from '../app/placeholder.jpg';
+import me from '../app/Moi.jpg';
 
-export const name = 'Your Name';
+export const name = 'Aboubacar Sidik SANOGO 👋';
 export const avatar = me;
 export const about = () => {
   return (
     <>
-      Hey, I'm a developer who loves Next.js. I work at BigCo or CoolStartup as a Software Engineer.
+     Je suis étudiant en Master 2 Intelligence Artificielle & business à IA School, passionné par la data science et son évolution croissante. 
     </>
   );
 };
 export const bio = () => {
   return (
     <>
-      When I'm not coding, I'm probably playing video games or watching anime. I also love to travel and explore new places.
+     J’ambitionne de mettre mes compétences au service d’une entreprise à la culture innovante, enthousiaste et audacieuse. 
     </>
   );
 };
